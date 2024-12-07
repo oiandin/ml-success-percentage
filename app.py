@@ -1,6 +1,7 @@
 import pickle
 import numpy as np
 import streamlit as st
+import sklearn
 
 # Path ke file model
 pickle_file_path = "success_percentage_model.pkl"
